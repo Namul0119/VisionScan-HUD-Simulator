@@ -49,7 +49,7 @@ Java로 구현한 HUD 스타일의 게임 시뮬레이터 - 타겟 탐지, 보�
 
 ## 시연 영상 (Demo)
 
-[**시연 영상 보러가기**]([https://github.com/user-attachments/assets/51db5d08-9f10-4b9e-8a0d-9c7dd8de4781])
+[**시연 영상 다운로드 (MP4)**](https://github.com/user-attachments/assets/92bee40d-cd68-4646-ae97-29b9661cf4d4)
 
 ---
 
